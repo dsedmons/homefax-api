@@ -1,0 +1,46 @@
+[
+    {
+        "address_1": "2120 Forest Park Blvd",
+        "address_2": null,
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "zipcode": 46805,
+        "sqft": 5562,
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "forsale": true
+    },
+    {
+        "address_1": "1848 Forest Park Blvd",
+        "address_2": null,
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "zipcode": 46805,
+        "sqft": 5857,
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "forsale": false
+    },
+    {
+        "address_1": "1916 California Ave",
+        "address_2": null,
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "zipcode": 46805,
+        "sqft": 1680,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "forsale": true
+    },
+    {
+        "address_1": "2352 Little Bend Rd",
+        "address_2": null,
+        "city": "Signal Mountain",
+        "state": "Tennessee",
+        "zipcode": 37377,
+        "sqft": 3382,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "forsale": true
+    }
+]
